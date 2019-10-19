@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/my_resume/static/css/main.2c2729ce.chunk.css",
+    "main.js": "/my_resume/static/js/main.e148a69c.chunk.js",
+    "main.js.map": "/my_resume/static/js/main.e148a69c.chunk.js.map",
+    "runtime~main.js": "/my_resume/static/js/runtime~main.07570d3b.js",
+    "runtime~main.js.map": "/my_resume/static/js/runtime~main.07570d3b.js.map",
+    "static/css/2.266e55a5.chunk.css": "/my_resume/static/css/2.266e55a5.chunk.css",
+    "static/js/2.32fe11f2.chunk.js": "/my_resume/static/js/2.32fe11f2.chunk.js",
+    "static/js/2.32fe11f2.chunk.js.map": "/my_resume/static/js/2.32fe11f2.chunk.js.map",
+    "index.html": "/my_resume/index.html",
+    "precache-manifest.087ff69a5ba871fe250495d56a41349b.js": "/my_resume/precache-manifest.087ff69a5ba871fe250495d56a41349b.js",
+    "service-worker.js": "/my_resume/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/my_resume/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.2c2729ce.chunk.css.map": "/my_resume/static/css/main.2c2729ce.chunk.css.map"
+  }
+}
