@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  min-height: 100 vh;
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato', sans-serif;
+}
+
+.change-color{
+
+  
+  z-index: 1000;
+}
+.change-color img{
+  cursor: pointer;
+  position: fixed;
+  top: 50px;
+  right: 10px;
+  width: 40px;
+  padding: 10px;
+  transition: all 1s;
+  
+  
+}
+.change-color :hover{
+  transform: scale(1.2)
+}
+
+
+
+
+
+

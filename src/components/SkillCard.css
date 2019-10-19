@@ -1,0 +1,25 @@
+.card-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background : none;
+  }
+  #img{
+    height: 100px;
+    width: 120px;
+    margin: 20px;
+    padding: 20px;
+    
+  
+  }
+  .image-wrapper{
+    transition: 500ms;
+    border-radius: 50%;
+    margin-bottom: 30px;
+  }
+ 
+  .image-wrapper:hover{
+    transform: scale(1.1);
+    box-shadow: 5px 5px 10px grey;
+    background-color:white;
+  }

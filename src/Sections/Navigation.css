@@ -1,0 +1,10 @@
+.d-inline-block
+{
+   position: relative;
+   right: 10px;
+   z-index: -10;
+}
+
+.nav-link{
+   color: aliceblue
+}

@@ -1,0 +1,57 @@
+{
+    "title" : "Hello I'm Niloofar",
+    "subtitle" : "Computer Engeneering student | Front End Developer",
+    "links" :{
+        "github" : "https://github.com/niloofarmojoodi",
+        "linkedin" : "https://www.linkedin.com/in/niloofar-mojoodi/",
+        "twitter" : "https://twitter.com/niloofar_m78",
+        "telegram" : " https://t.me/niloofar_m78"
+    },
+    "sections" :[
+        {
+        "title" : "About",
+        "items" :[
+            {
+            "type":"p",
+            "content":"my name is Niloofar Mojoodi.I 20 years old and i love learning:)"
+            }
+        ]
+    },
+    {
+       "title" : "Skills",
+       "items" : [
+           {
+               "type" : "card",
+               "content" :{
+                   "image" : "https://www.flaticon.com/premium-icon/icons/svg/1183/1183621.svg",
+                   "title":"React"
+               }
+           },
+           {
+            "type" : "card",
+            "content" :{
+                "image" : "https://www.flaticon.com/premium-icon/icons/svg/2085/2085130.svg",
+                "title":"JavaScript"
+            }
+        },
+        {
+            "type" : "card",
+            "content" :{
+                "image" : "https://www.flaticon.com/premium-icon/icons/svg/2085/2085138.svg",
+                "title":"Html"
+            }
+        },
+        {
+            "type" : "card",
+            "content" :{
+                "image" : "https://www.flaticon.com/premium-icon/icons/svg/2085/2085155.svg",
+                "title":"Css"
+            }
+        }
+       ]
+
+    }
+
+    ]
+    
+}

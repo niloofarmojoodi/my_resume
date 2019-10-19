@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+   
+    
+}
+.arrow img{  
+    max-width: 30px;
+}
+
+/* @keyframes rotation {
+    from {
+            bottom: 5%;
+    }
+    to {
+            bottom: 2%;
+    }
+} */
